@@ -6,11 +6,9 @@ Explore my analysis on the Covid-19 vaccine hesitancy and its impact on public h
 
 
 
-
+<br></br>
 
 Citations: 
-
-Author or Organization. (Year). Title of the webpage or dataset. Site Name. URL
 
 1. U.S. Department of Health & Human Services. (2024). COVID-19 Reported Patient Impact and Hospital Capacity by State Timeseries (RAW). DATA.GOV. https://catalog.data.gov/dataset/covid-19-reported-patient-impact-and-hospital-capacity-by-state-timeseries-cf58c
 2. Centers for Disease Control and Prevention. (2023). COVID-19 Vaccinations in the United States,Jurisdiction. CDC Centers for Disease Control and Prevention. https://data.cdc.gov/Vaccinations/COVID-19-Vaccinations-in-the-United-States-Jurisdi/unsk-b7fc/about_data

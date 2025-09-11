@@ -1,0 +1,6 @@
+State,Dem_or_rep,max_vax_rate,relative_hospitalizations
+RI,"Blue",95,0.0150
+VT,"Blue",95,0.1342
+CT,"Blue",95,0.0325
+MA,"Blue",95,0.0628
+ME,"Blue",95,0.1667

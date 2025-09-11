@@ -1,0 +1,5 @@
+variable_x,variable_y,correlation
+vax_rate_at_cutoff,vax_rate_at_cutoff,1.0
+vax_rate_at_cutoff,percent_population_dead_after_cutoff,-0.09788189979132582
+percent_population_dead_after_cutoff,vax_rate_at_cutoff,-0.09788189979132582
+percent_population_dead_after_cutoff,percent_population_dead_after_cutoff,1.0

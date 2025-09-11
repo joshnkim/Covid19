@@ -1,0 +1,5 @@
+variable_x,variable_y,correlation
+max_vax_rate,max_vax_rate,1.0
+max_vax_rate,relative_icu_utilization,-0.18780788187711642
+relative_icu_utilization,max_vax_rate,-0.18780788187711642
+relative_icu_utilization,relative_icu_utilization,1.0

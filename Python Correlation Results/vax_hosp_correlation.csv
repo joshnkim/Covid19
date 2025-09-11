@@ -1,0 +1,5 @@
+variable_x,variable_y,correlation
+max_vax_rate,max_vax_rate,1.0
+max_vax_rate,relative_hospitalizations,-0.43916795813530657
+relative_hospitalizations,max_vax_rate,-0.43916795813530657
+relative_hospitalizations,relative_hospitalizations,1.0

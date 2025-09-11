@@ -1,0 +1,5 @@
+variable_x,variable_y,correlation
+avg_hesitant,avg_hesitant,1.0
+avg_hesitant,percent_population_dead_post_vax,0.001347851790502847
+percent_population_dead_post_vax,avg_hesitant,0.001347851790502847
+percent_population_dead_post_vax,percent_population_dead_post_vax,1.0

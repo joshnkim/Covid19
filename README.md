@@ -1,5 +1,7 @@
 <h1>Covid-19 Vaccine Hesitancy Story:</h1>
 
+not completely finished: conlusion in progress 
+
 <h3>Explore my analysis on the Covid-19 vaccine hesitancy and its impact on public health in the US.</h3>
 
 [View the story here](https://joshnkim.github.io/Covid19/)

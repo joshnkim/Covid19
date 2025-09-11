@@ -11,6 +11,11 @@
 <br></br>
 <br></br>
 
+
+
+Datasets: 
+https://github.com/joshnkim/Covid19/releases/tag/v1.0.0#:~:text=Contains%20csv%20datasets-,Assets,-3
+
 Citations: 
 
 1. U.S. Department of Health & Human Services. (2024). COVID-19 Reported Patient Impact and Hospital Capacity by State Timeseries (RAW). DATA.GOV. https://catalog.data.gov/dataset/covid-19-reported-patient-impact-and-hospital-capacity-by-state-timeseries-cf58c

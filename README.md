@@ -13,7 +13,7 @@
 
 
 
-Datasets: 
+Dataset CSVs: 
 https://github.com/joshnkim/Covid19/releases/tag/v1.0.0#:~:text=Contains%20csv%20datasets-,Assets,-3
 
 Citations: 
